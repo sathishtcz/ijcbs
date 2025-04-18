@@ -76,7 +76,7 @@ export default function About() {
                             The International Journal of Cognitive and Behavioral Sciences is a peer-reviewed, open-access academic journal dedicated to the advancement of research in cognitive science, psychology, and behavioral studies. Our mission is to foster interdisciplinary dialogue and disseminate high-quality research that deepens the understanding of human cognition, emotion, and behavior across diverse contexts.
                         </p>
                         <div className="text-start mb-10">
-                            <a href="" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.ijcbs.com/ijcbs/index.php/ijcbs/about/submissions" target="_blank" rel="noopener noreferrer">
                                 <button className="bg-[#FF0B55] text-white px-4 py-3   cursor-pointer">
                                     <div className="flex justify-between gap-2 items-center ">
                                         {" "}

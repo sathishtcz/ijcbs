@@ -72,7 +72,7 @@ export default function AimScope() {
                         The International Journal of Cognitive and Behavioral Sciences aims to advance the scientific understanding of human cognition, emotion, and behavior through the dissemination of high-quality interdisciplinary research. The journal provides a platform for scholars, clinicians, and researchers to explore the complex interplay between psychological processes and neural mechanisms.
                         </p>
                         <div className="text-start mb-10">
-                            <a href="" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.ijcbs.com/ijcbs/index.php/ijcbs/about/submissions" target="_blank" rel="noopener noreferrer">
                                 <button className="bg-[#FF0B55] text-white px-4 py-3   cursor-pointer">
                                     <div className="flex justify-between gap-2 items-center ">
                                         {" "}

@@ -76,7 +76,7 @@ export default function Home({ firstRow, secondRow, thirdRow }) {
                             is a peer-reviewed platform dedicated to the exploration and advancement of knowledge in the fields of cognition, psychology, and behavioral science. The journal publishes high-quality empirical research, theoretical frameworks, and critical reviews that shed light on the complex interplay between thought, emotion, and behavior. With an interdisciplinary approach, it aims to connect researchers, clinicians, and scholars across neuroscience, artificial intelligence, education, and mental health, fostering innovation and insight into human and animal behavior.
                         </p>
                         <div className="text-start mb-10">
-                            <a href="" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.ijcbs.com/ijcbs/index.php/ijcbs/about/submissions" target="_blank" rel="noopener noreferrer">
                                 <button className="bg-[#FF0B55] text-white px-4 py-3   cursor-pointer">
                                     <div className="flex justify-between gap-2 items-center ">
                                         {" "}
